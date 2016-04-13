@@ -25,10 +25,6 @@
 <div id="logout">Logging Out...</div>
 
 
-
-
-
-
 <script language="javascript">
 
 $(document).ready(function() {
