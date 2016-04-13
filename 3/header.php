@@ -23,6 +23,7 @@ $profile = getProfile();
 	<link rel="stylesheet" href="css/bootstrap.min.css"> <!-- CSS Bootstrap -->
 	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
+	<link rel="stylesheet" href="css/loading.css"> <!-- Resource style -->
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
   	
 	<title>SmartPIP :: Info Kiosk</title>

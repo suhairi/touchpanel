@@ -3,6 +3,18 @@
 	<a class="cd-nav-trigger cd-text-replace" href="#primary-nav">Menu<span aria-hidden="true" class="cd-icon"></span></a>
 	<a class="cd-nav-trigger2 project-open" href="http://<?= $_SERVER['HTTP_HOST']; ?>/logout.php" title="Log Keluar"><span aria-hidden="true" class="cd-icon"></span></a>
 
+	<style>
+		img {
+			height: 250px;
+			width: 350;
+			border-radius: 5px;
+			border: 2px solid #CCC;
+			box-shadow: 5px 5px 5px #888888;
+		}
+
+
+	</style>
+
 	<div class="cd-projects-container">
 		<ul class="cd-projects-previews">
 			<li>
